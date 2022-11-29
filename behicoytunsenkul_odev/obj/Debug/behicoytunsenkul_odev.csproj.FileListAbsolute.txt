@@ -1,0 +1,280 @@
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe.config
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.pdb
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.AssemblyReference.cache
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Form1.resources
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Properties.Resources.resources
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.GenerateResource.cache
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe.licenses
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.CoreCompileInputs.cache
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.CopyComplete
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.pdb
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.World.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ZedGraph.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.World.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.MorfolojikIslemler.resources
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Imaging.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Math.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Imaging.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Math.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.dll.config
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Imaging.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Statistics.dll
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Imaging.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Statistics.xml
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Form2.resources
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe.manifest
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.application
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe.manifest
+C:\Users\oytun\OneDrive\Masaüstü\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.application
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.AssemblyReference.cache
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Form1.resources
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Form2.resources
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Properties.Resources.resources
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.GenerateResource.cache
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe.licenses
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.CoreCompileInputs.cache
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.pdb
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.dll.config
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe.config
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe.manifest
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.application
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.pdb
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Imaging.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Statistics.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Imaging.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Math.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ZedGraph.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Imaging.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Statistics.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Imaging.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Math.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.World.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe.manifest
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.application
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\sgi_odev\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.CopyComplete
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.dll.config
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe.config
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe.manifest
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.application
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.exe
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\behicoytunsenkul_odev.pdb
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Imaging.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Statistics.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Imaging.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Math.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.World.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ZedGraph.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Imaging.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Math.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Accord.Statistics.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Imaging.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\AForge.Math.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\Emgu.CV.World.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.AssemblyReference.cache
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Form1.resources
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Form2.resources
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.Properties.Resources.resources
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.GenerateResource.cache
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe.licenses
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.CoreCompileInputs.cache
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe.manifest
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.application
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.csproj.CopyComplete
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.exe
+C:\Users\oytun\OneDrive\Masaüstü\SİLME ÖDEV\behicoytunsenkul_odev\behicoytunsenkul_odev\obj\Debug\behicoytunsenkul_odev.pdb
