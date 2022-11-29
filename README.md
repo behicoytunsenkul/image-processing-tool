@@ -22,6 +22,11 @@ The operations you can perform with the Image Processing Tool are:
 ->DILATION  
 ->EROTION  
 ->SKELETONIZATION (ONLY 8BPP IMAGE)  
+
+
+![skeletoization](https://user-images.githubusercontent.com/114110417/204658747-7db1d2b6-da60-422d-a367-1149e2de9269.png)
+
+
 However, you can add noises on your image:  
 ->UNIFORM NOISE  
 ->EXPONENTIAL NOISE  
