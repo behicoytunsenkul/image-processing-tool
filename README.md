@@ -5,6 +5,7 @@ C# | DevExpress | Visual Studio
 
 This project is a more developed version of the project given to me by our school. With this tool, you can perform many image processing operations.
 The operations you can perform with the Image Processing Tool are:  
+
 ->GRAYSCALE IMAGE  
 ->NEGATIVE IMAGE  
 ->BLACK-WHITE IMAGE  
@@ -29,3 +30,8 @@ However, you can add noises on your image:
 
 
 Finally, you can save image as PNG, JPG, TIFF or BMP.
+
+
+For your questions and suggestions about the project, contact my LinkedIn account below:
+
+https://www.linkedin.com/in/behi%C3%A7-oytun-%C5%9Fenkul-aa7a31202/
