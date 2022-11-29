@@ -5,7 +5,7 @@ C# | DevExpress | Visual Studio
 
 This project is a more developed version of the project given to me by our school. With this tool, you can perform many image processing operations.
 The operations you can perform with the Image Processing Tool are:
-->GRAYSCALE IMAGE \n
+->GRAYSCALE IMAGE  
 ->NEGATIVE IMAGE
 ->BLACK-WHITE IMAGE
 ->BINARY IMAGE
